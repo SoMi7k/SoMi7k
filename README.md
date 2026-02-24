@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoMi7k
 - I’m interested in Data Analysis, Michine learning and NLP
 - I’m currently studying bachelor program called Software Engeneering
-- I work for InstaCover
+- I’ve for InstaCover for 3 months
 - Interesting fact: I like a lot of sports, e.g. Beach/Volleybal, Badminton, Hockey
 
 <!---
